@@ -1,4 +1,4 @@
-# FastAPI-Celery Example
+# Async Order Processing Web Services
 
 ![Architecture](src/design/architecture.png)
 
